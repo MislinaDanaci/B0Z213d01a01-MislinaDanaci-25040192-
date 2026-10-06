@@ -23,4 +23,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1. Bilgisayarınızda Python'ın güncel sürümünün yüklü olduğundan emin olun.
 2. Bu depoyu (repository) bilgisayarınıza indirin veya `git clone` komutu ile klonlayın:
    ```bash
-   git clone [https://github.com/MislinaDanaci/B07213d01a01.py-MislinaDanaci-25040192-.git](https://github.com/MislinaDanaci/B07213d01a01.py-MislinaDanaci-25040192-.git)
+   git clone https://github.com/MislinaDanaci/B07213d01a01.py-MislinaDanaci-25040192-.git
